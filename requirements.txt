@@ -1,0 +1,16 @@
+yfinance
+fastapi
+uvicorn[standard]
+websockets
+langgraph
+groq
+sec-edgar-downloader
+beautifulsoup4
+duckduckgo-search
+chromadb
+plotly
+fpdf2
+pandas
+numpy
+python-dotenv
+requests
